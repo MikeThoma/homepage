@@ -1,4 +1,5 @@
 import GenericClickableSvgIcon from "./GenericSvgIcon.jsx";
+import React from 'react';
 
 const LinkedInIcon = () => {
     return <GenericClickableSvgIcon url="https://de.linkedin.com/in/mike-thoma-3646a5190">

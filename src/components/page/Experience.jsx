@@ -1,5 +1,6 @@
 import './Experience.css'
-import ExperienceCard from '../layout/ExperienceCard';
+import ExperienceCard from '../layout/ExperienceCard.jsx';
+import React from 'react';
 
 const Experience = () => {
     const workExperienceList = [

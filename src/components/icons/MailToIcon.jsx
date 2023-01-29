@@ -1,5 +1,5 @@
-
-import GenericClickableSvgIcon from './GenericSvgIcon';
+import React from 'react';
+import GenericClickableSvgIcon from './GenericSvgIcon.jsx';
 
 const MailToIcon = () => {
     return <GenericClickableSvgIcon url="mailto:mike.thoma@hotmail.de">

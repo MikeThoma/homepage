@@ -1,4 +1,5 @@
-import GenericClickableSvgIcon from "./GenericSvgIcon";
+import GenericClickableSvgIcon from "./GenericSvgIcon.jsx";
+import React from 'react';
 
 const GithubIcon = () => {
     return <GenericClickableSvgIcon url="https://github.com/MikeThoma">

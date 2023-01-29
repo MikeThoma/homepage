@@ -1,5 +1,6 @@
-import Introduction from '../layout/Introduction';
-import GetConnectedIcons from '../layout/GetConnectedIcons';
+import Introduction from '../layout/Introduction.jsx';
+import GetConnectedIcons from '../layout/GetConnectedIcons.jsx';
+import React from 'react';
 
 const Frontpage = () => {
     return <>

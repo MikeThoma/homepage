@@ -1,4 +1,5 @@
 import './Introduction.css'
+import React from 'react';
 
 const Introduction = () => {
     return <div className='introduction'>

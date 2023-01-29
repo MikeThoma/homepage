@@ -1,7 +1,8 @@
 import './GetConnectedIcons.css'
-import LinkedInIcon from '../icons/LinkedinIcon';
-import GithubIcon from '../icons/GithubIcon';
-import MailToIcon from '../icons/MailToIcon';
+import LinkedInIcon from '../icons/LinkedinIcon.jsx';
+import GithubIcon from '../icons/GithubIcon.jsx';
+import MailToIcon from '../icons/MailToIcon.jsx';
+import React from 'react';
 
 const GetConnectedIcons = () => {
     return <div className='get-connected' style={{ margin: '32px 0px' }}>

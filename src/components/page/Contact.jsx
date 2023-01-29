@@ -1,8 +1,7 @@
 import './Contact.css'
-import Form from 'react-bootstrap/Form';
 import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
 import { useState } from 'react';
+import React from 'react';
 
 const Contact = () => {
     const [state, setState] = useState({
