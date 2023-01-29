@@ -1,0 +1,9 @@
+.name-heading {
+    font-size: 5rem;
+}
+
+@media only screen and (max-width: 37.5em) {
+    .name-heading {
+        font-size: 3rem;
+    }
+}

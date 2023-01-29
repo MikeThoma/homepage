@@ -1,0 +1,12 @@
+
+.contact {
+    max-width: 60vw;
+    min-width: 60vw;
+}
+
+@media only screen and (max-width: 37.5em) {
+    .contact {
+        max-width: 80vw;
+        min-width: 80vw;
+    }
+}
