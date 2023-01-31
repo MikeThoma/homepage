@@ -5,3 +5,26 @@
   border: none;
   box-shadow: none;
 }
+
+.navbar-items-container {
+  padding-right: 30px;
+}
+
+.small-margin-right {
+  margin-right: 10px;
+}
+
+.no-link-decoration {
+  text-decoration: none;
+  color: black;
+}
+
+@media only screen and (max-width: 37.5em) {
+  .navbar-items-container {
+    padding-right: 0px;
+  }
+
+  .small-margin-right {
+    margin-right: 0px;
+  }
+}
