@@ -1,5 +1,4 @@
 TODOs:
-- Wie kann ich das ganze so automatisieren, dass das gebaut und dann direkt deployed wird? 
 - Styling anpassen
     - Navigationsleiste Items sind nicht ideal, müssen über .css Datei gelöst werden
     - Der Abstand von dem Logo ist auf einem Mobile Gerät nicht gut
