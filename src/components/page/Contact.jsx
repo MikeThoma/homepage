@@ -26,7 +26,7 @@ const Contact = () => {
     return <div className="contact" style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
         {/*<h3>Contact</h3>*/}
         <Card body style={{ width: "100%", border: 'none'}}>
-            <p>Kontaktiere mich einfach unter <h3>mt@mikethoma.de</h3>Ich melde mich so schnell ich kann.</p>
+            <p>Kontaktiere mich einfach unter <h3>mt@mikethoma.de</h3>Ich werde mich zeitnah bei dir melden.</p>
         </Card>
         {/*<p style={{ marginBottom: '20px' }}>Feel free to contact me, by submitting the form below. I will contact you as soon as possible.</p>
         <p style={{ fontSize: '12px', color: 'red' }}>Info: The contact form is still in progress, and doesn't send any messages yet. Just contact me via email: mike.thoma@hotmail.de.</p>

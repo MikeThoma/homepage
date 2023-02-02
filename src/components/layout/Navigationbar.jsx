@@ -12,6 +12,7 @@ const Navigationbar = () => {
         <Navbar.Toggle className='navbar-toggle' aria-controls='navbarScroll' style={{ marginRight: '20px', border: 'none' }} />
         <Navbar.Collapse className='justify-content-end'>
             <Nav className="align-items-center navbar-items-container">
+                <Link to='/' className='small-margin-right no-link-decoration'>Home</Link>
                 <Link to='experience' className='small-margin-right no-link-decoration'>Experience</Link>
                 <Link to='contact' className='small-margin-right no-link-decoration'><Button variant='outline-primary'>Contact Me</Button></Link>
             </Nav>

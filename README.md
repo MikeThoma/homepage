@@ -16,8 +16,13 @@ v0.2 - in progres
 
 - Routing nachlesen -> Wie können die Links richtig angezeigt werden -> .de/contacts und .de/experience nicht .de/#/contacts und .de/#/experience
 
-v0.3 -
-- Blog Seite erstellen
-    - Übersichtsseite
-    - Komponente für eine einzelne Seite
+- Changelog implementieren
+    - Unten im Footer
 
+- Nachlesen Styling
+    - Wie kann ich für die verschiedenen Mobile Grenzen einmalig definieren und dann referenzieren?
+    - Mobile First Ansatz?
+    - Styled Components vs CSS Datei
+
+- Navbar klappt ein, wenn etwas ausgewählt wurde
+    - Styling Navbar anpassen -> mehr Platz für dicke Daumen
